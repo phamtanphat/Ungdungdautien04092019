@@ -1,5 +1,6 @@
 package phamtanphat.ptp.khoaphamtraining.ungdungdautien04092019;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -10,6 +11,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Toan cuc
     TextView mtxt;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,5 +30,9 @@ public class MainActivity extends AppCompatActivity {
 //
 //        a = b
 //        a thay doi , b thay doi : vi b truyen tham chieu
+        //Cuc bo
+        Integer a = 10;
     }
+
+
 }
